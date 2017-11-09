@@ -14,4 +14,4 @@ app.use(express.static("./public"));
 
 app.listen(listeningPort);
 
-console.log(`MyInfo-Server started on listeningPort ${listeningPort}!`);
+console.log(`MyInfo-Server started on listeningPort ${listeningPort}`);
