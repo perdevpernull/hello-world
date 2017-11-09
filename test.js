@@ -10,8 +10,8 @@ app.get("/:username/:dbname", function (req, res) {
     res.end();
 });
 
-app.use(express.static("./public"));
+app.use(express.static("./public"))
 
-app.listen(listeningPort);
+app.listen(listeningPort)
 
-console.log(`MyInfo-Server started on listeningPort ${listeningPort}`);
+console.log(`MyInfo-Server started on listeningPort ${listeningPort}`)
