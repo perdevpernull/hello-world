@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/perdevpernull/hello-world/issues"
   },
-  "homepage": "https://github.com/perdevpernull/hello-world#readme"
+  "homepage": "https://github.com/perdevpernull/hello-world#readme",
+  "devDependencies": {
+    "eslint": "^4.10.0"
+  }
 }
