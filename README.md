@@ -7,3 +7,6 @@ This project is:
 
 ## CH:1
 And here comes a little change
+
+## CH:2
+Here comes the requested new paragraph
